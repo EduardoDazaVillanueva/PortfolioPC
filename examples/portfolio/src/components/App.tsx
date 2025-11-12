@@ -7,7 +7,7 @@ export function App() {
 	return (
 		<ProzillaOS
 			systemName="Portfolio"
-			tagLine="ProzillaOS examples"
+			tagLine="Eduardo Daza"
 			skin={defaultSkin}
 			config={{
 				apps: appsConfig,
